@@ -1,12 +1,12 @@
 ### Hi there, I'm Doug 👋
 
-## I'm a Full Stack Software Engineer
+## I'm a Software Engineer
 
 <!--
 **DkFresh89/dkfresh89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- :book: I'm currently learning Typescript
+- :book: I'm currently learning React Native
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ## Technical Skills
